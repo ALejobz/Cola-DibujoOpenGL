@@ -1,0 +1,9 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Arbol.cpp
+C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera2\Arbol.cpp(15,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera2\Arbol.cpp(25,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera2\Arbol.cpp(34,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera2\Arbol.cpp(44,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera2\Arbol.cpp(57,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+Arbol.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  TemplateProject.vcxproj -> C:\Users\alejo\OneDrive\Escritorio\2021-1\Grafica\Tetera2\Debug\TemplateProject.exe
